@@ -1,0 +1,201 @@
+messageID,sendMessage,replyMessage,sendMessageTime,replyMessageTime,durationResponseMinutes,keywordOverlap,semanticSimilarity,groundTruth
+1,"Hi, how was our recent trip to Gilgit?", It was amazing! The scenery was breathtaking.,03/11/2023 10:00,03/11/2023 10:15,15,0.13942995985310797,0.314841,1
+2,"I know, those mountains were incredible.", Especially the view from the top.,03/11/2023 10:20,03/11/2023 10:25,5,0,0.76777786,1
+3,The weather was perfect too., Absolutely! Not too hot or cold.,03/11/2023 10:30,03/11/2023 10:35,5,0.10163066979112656,0.6645176,1
+4,Did you enjoy the local cuisine?," Yes,  the food was delicious!",03/11/2023 10:40,03/11/2023 10:45,5,0.10163066979112656,0.7250579,1
+5,I still can't get over the colors of the Hunza Valley., It was like a painting.,03/11/2023 10:50,03/11/2023 10:55,5,0,0.29632598,1
+6,The Baltit Fort tour was informative., And the history behind it was fascinating.,03/11/2023 11:00,03/11/2023 11:05,5,0.18443191662261305,0.7421141,1
+7,The people there were so welcoming., We made some new friends.,03/11/2023 11:10,03/11/2023 11:15,5,0,0.61058974,1
+8,I miss those serene moments by the river., Listening to the sound of water.,03/11/2023 11:20,03/11/2023 11:25,5,0.084579861,0.56754357,1
+9,We should plan another trip soon.," Absolutely,  maybe Skardu next time?",03/11/2023 11:30,03/11/2023 11:35,5,0,0.7841949,1
+10,That sounds like a great idea., I'm up for it!,03/11/2023 11:40,03/11/2023 11:45,5,0,0.8143829,1
+11,Let's start planning!, It'll be another unforgettable adventure.,03/11/2023 11:50,03/11/2023 11:55,5,0,0.6422588,1
+12,I can't wait!, Me neither.,03/11/2023 12:00,03/11/2023 12:05,5,0,0.5158598,1
+13,Remember that thrilling jeep ride?, It was like a roller coaster!,03/11/2023 12:10,03/11/2023 12:15,5,0,0.52694714,1
+14,I thought we were going to lose our lunch.," Haha,  but it was so much fun!",03/11/2023 12:20,03/11/2023 12:25,5,0,0.12386937,1
+15,The Gilgit River's beauty was enchanting., I could sit by it all day.,03/11/2023 12:30,03/11/2023 12:35,5,0,0.24696459,1
+16,And those clear starry nights in Gilgit., We stargazed for hours.,03/11/2023 12:40,03/11/2023 12:45,5,0,0.4866903,1
+17,The local markets were bustling., I bought some beautiful souvenirs.,03/11/2023 12:50,03/11/2023 12:55,5,0,0.4291183,1
+18,I still have those apricots we bought., They were so sweet.,03/11/2023 13:00,03/11/2023 13:05,5,0,0.51346976,1
+19,Let's cook some Gilgiti dishes at home., That's a great idea!,03/11/2023 13:10,03/11/2023 13:15,5,0,0.13928944,1
+20,We'll relive the taste of Gilgit., Can't wait to try the recipes!,03/11/2023 13:20,03/11/2023 13:25,5,0.084579861,0.6077764,1
+21,Did you notice the diverse culture?," Yes,  it was so interesting to learn.",03/11/2023 13:30,03/11/2023 13:35,5,0,0.6019574,1
+22,I'm glad we got to experience it., It made the trip even more special.,03/11/2023 13:40,03/11/2023 13:45,5,0.084579861,0.7342553,1
+23,We should write a travel blog about our trip., And share it with our friends.,03/11/2023 13:50,03/11/2023 13:55,5,0.078744603,0.47005042,1
+24,It'll be a great way to preserve the memories., I'm excited to do that!,03/11/2023 14:00,03/11/2023 14:05,5,0.092697897,0.60653335,1
+25,We should also plan a road trip soon.," Yes,  exploring more places would be awesome!",03/11/2023 14:10,03/11/2023 14:15,5,0,0.58266693,1
+26,I heard Skardu is beautiful too., I've always wanted to go there.,03/11/2023 14:20,03/11/2023 14:25,5,0,0.51979345,1
+27,We can add it to our travel bucket list.," Yes,   exploring more places would be awesome!",03/11/2023 14:30,03/11/2023 14:35,5,0,0.5679452,1
+28,It's been a pleasure chatting with you., Likewise! Until our next adventure!,03/11/2023 21:00,03/11/2023 21:05,5,0,0.35211304,1
+29,"See you soon, my friend!"," Take care,  and talk to you later!",03/11/2023 21:10,03/11/2023 21:15,5,0.093494775,0.7749076,1
+30,Goodbye for now!, Goodbye!,03/11/2023 21:20,03/11/2023 21:25,5,0.4494364165239821,0.9106194,1
+31,Hi! How was the cricket match at Karachi Stadium?, It was fantastic! The atmosphere was electric.,04/11/2023 10:00,04/11/2023 10:15,15,0.20994245534821712,0.1999534,1
+32,I heard the crowd was going wild., Absolutely; the cheers were deafening.,04/11/2023 10:20,04/11/2023 10:25,5,0.10163066979112656,0.691283,1
+33,Tell me about the highlights of the match., There were some incredible sixes and catches.,04/11/2023 10:30,04/11/2023 10:35,5,0,0.48490882,1
+34,Who was the standout player?, The captain played a brilliant innings.,04/11/2023 10:40,04/11/2023 10:45,5,0.11234277891542777,0.5359223,1
+35,I wish I could've been there., You missed out on a great game.,04/11/2023 10:50,04/11/2023 10:55,5,0,0.5661583,1
+36,How was the weather at the stadium?, It was perfect; not too hot or too cold.,04/11/2023 11:00,04/11/2023 11:05,5,0.053550953,0.17652899,1
+37,Did you get any souvenirs?, Yes; I bought a team jersey.,04/11/2023 11:10,04/11/2023 11:15,5,0,0.45917386,1
+38,I heard there was a fireworks show after the match., Yes; it was a spectacular display.,04/11/2023 11:20,04/11/2023 11:25,5,0.087044468,0.32327098,1
+39,Let's plan to watch a match together next time., That sounds like a great idea!,04/11/2023 11:30,04/11/2023 11:35,5,0,0.3263403,1
+40,We'll have an amazing time at the stadium., I'm looking forward to it!,04/11/2023 11:40,04/11/2023 11:45,5,0,0.64755815,1
+41,"Hi, are you still thinking about the cricket match?", Yes; I can't stop talking about it.,04/11/2023 11:50,04/11/2023 11:55,5,0.073971295,0.22152123,1
+42,That six in the last over was incredible., It changed the course of the game.,04/11/2023 12:00,04/11/2023 12:05,5,0.13942995985310797,0.39175373,1
+43,I was on the edge of my seat throughout., It was a nail-biting finish.,04/11/2023 12:10,04/11/2023 12:15,5,0.087044468,0.461609,1
+44,Who do you think will win the next match?, I'm supporting our home team.,04/11/2023 12:20,04/11/2023 12:25,5,0,0.42108205,1
+45,I hope we have more matches like this one., Me too; it was thrilling.,04/11/2023 12:30,04/11/2023 12:35,5,0,0.55240035,1
+46,I couldn't believe that last catch!, It was a game-changer; for sure.,04/11/2023 12:40,04/11/2023 12:45,5,0,0.4035564,1
+47,Do you play cricket in your free time?, I do; it's a fun sport.,04/11/2023 12:50,04/11/2023 12:55,5,0.098679618,0.2697164,1
+48,We should organize a friendly match., That sounds like a great idea.,04/11/2023 13:00,04/11/2023 13:05,5,0,0.524384,1
+49,It'll be a fun way to stay active., And relive some stadium moments.,04/11/2023 13:10,04/11/2023 13:15,5,0,0.42713228,1
+50,Did you try the stadium's famous snacks?, I had a hot dog and some popcorn.,04/11/2023 13:20,04/11/2023 13:25,5,0,0.58974683,1
+51,I should join you next time., We'll enjoy the snacks and the game.,04/11/2023 13:30,04/11/2023 13:35,5,0,0.51885915,1
+52,I'm already excited for the next match., It can't come soon enough!,04/11/2023 13:40,04/11/2023 13:45,5,0,0.3306257,1
+53,The players' dedication is inspiring., They give it their all.,04/11/2023 13:50,04/11/2023 13:55,5,0,0.47181,1
+54,I hope they continue to make us proud., They're our heroes.,04/11/2023 14:00,04/11/2023 14:05,5,0.1059921313509325,0.8047819,1
+55,Let's catch up soon., Yes; we have a lot to discuss.,04/11/2023 14:10,04/11/2023 14:15,5,0,0.57607675,1
+56,I'm looking forward to it., Me too! Until then.,04/11/2023 14:20,04/11/2023 14:25,5,0,0.66818094,1
+57,"Take care, my friend!", You too; talk to you later!,04/11/2023 14:30,04/11/2023 14:35,5,0,0.51320183,1
+58,Goodbye for now!, Goodbye!,04/11/2023 14:40,04/11/2023 14:45,5,0.4494364165239821,0.9106194,1
+59,Hi! Have you started preparing for the AI exam?, I've just started reviewing the materials.,06/11/2023 9:00,06/11/2023 9:15,15,0.1597642092414444,0.6178008,1
+60,I'm a bit worried about the AI exam.," Don't stress, we've got this!",06/11/2023 9:20,06/11/2023 9:25,5,0,0.20631218,1
+61,I'll be revising the neural networks section., That's a crucial part of the course.,06/11/2023 9:30,06/11/2023 9:35,5,0.084579861,0.49456966,1
+62,I'm also going over machine learning algorithms., Solid choice; they often come up.,06/11/2023 9:40,06/11/2023 9:45,5,0,0.24238928,1
+63,Do you have any practice exams?, I've found a few online; I can share them.,06/11/2023 9:50,06/11/2023 9:55,5,0,0.31287006,1
+64,I'd appreciate that; practice is key.," Definitely,  it helps to gauge our progress.",06/11/2023 10:00,06/11/2023 10:05,5,0,0.8323906,1
+65,I'm also working on a project for the course.," Oh,  the project has been challenging.",06/11/2023 10:10,06/11/2023 10:15,5,0.18443191662261305,0.43070963,1
+66,I think it's a great way to apply what we've learned., You're right; it's a valuable experience.,06/11/2023 10:20,06/11/2023 10:25,5,0.069972543,0.8285437,1
+67,We should set up a study session together., That's a great idea; it'll keep us motivated.,06/11/2023 10:30,06/11/2023 10:35,5,0,0.37483287,1
+68,I'm available this weekend; does that work for you?," Perfect,  let's plan a productive session.",06/11/2023 10:40,06/11/2023 10:45,5,0,0.47174743,1
+69,"Hi, how's your AI exam preparation going?", I've made progress but there's still a lot to cover.,06/11/2023 10:50,06/11/2023 10:55,5,0,0.32546613,1
+70,The AI course is quite comprehensive., It sure is; it covers a lot of ground.,06/11/2023 11:00,06/11/2023 11:05,5,0.069972543,0.6662282,1
+71,I've been working on my AI project too.," The project is challenging,  isn't it?",06/11/2023 11:10,06/11/2023 11:15,5,0.078744603,0.335278,1
+72,I've had my share of late nights debugging.," Haha, debugging is an essential skill.",06/11/2023 11:20,06/11/2023 11:25,5,0.078744603,0.3701437,1
+73,I hope we'll have enough time to revise everything., We'll make the most of the time we have.,06/11/2023 11:30,06/11/2023 11:35,5,0.29411066171012384,0.77465576,1
+74,Do you have any AI-related resources to recommend?, I've found some great online courses.,06/11/2023 11:40,06/11/2023 11:45,5,0,0.4642181,1
+75,Please share them with me; they'll be helpful., I'll send you the links after our chat.,06/11/2023 11:50,06/11/2023 11:55,5,0.063354812,0.6094308,1
+76,Let's make a study plan for the week., A structured plan is the key to success.,06/11/2023 12:00,06/11/2023 12:05,5,0.16839750037215276,0.32916623,1
+77,I'll focus on the theory and algorithms this week., And I'll work on practical coding exercises.,06/11/2023 12:10,06/11/2023 12:15,5,0.23577033983032974,0.59330183,1
+78,We should also take breaks and stay refreshed., Agreed; breaks boost productivity.,06/11/2023 12:20,06/11/2023 12:25,5,0.098679618,0.53620917,1
+79,I've organized my AI notes and resources., Good organization will save us time.,06/11/2023 12:30,06/11/2023 12:35,5,0,0.31070724,1
+80,I've set up a quiet study space at home., A conducive environment is essential.,06/11/2023 12:40,06/11/2023 12:45,5,0,0.14692056,1
+81,The AI exam will test our problem-solving skills., We've improved a lot in that area.,06/11/2023 12:50,06/11/2023 12:55,5,0,0.22120085,1
+82,I'm feeling more confident about the exam., That's the spirit; confidence is key.,06/11/2023 13:00,06/11/2023 13:05,5,0.091939982,0.69590384,1
+83,Let's go over some AI concepts together., That's a great way to reinforce our learning.,06/11/2023 13:10,06/11/2023 13:15,5,0,0.50558674,1
+84,We'll quiz each other on AI topics., It's an effective way to test our knowledge.,06/11/2023 13:20,06/11/2023 13:25,5,0,0.48954505,1
+85,"Take care, my friend!", You too; we've got this!,06/11/2023 13:30,06/11/2023 13:35,5,0,0.710063,1
+86,Good luck with your studies!, Thank you; let's excel in the exam!,06/11/2023 13:40,06/11/2023 13:45,5,0,0.6683554,1
+87,Hi! How's your daily routine these days?, It's been pretty hectic lately.,08/11/2023 8:00,08/11/2023 8:15,15,0,0.4993347,1
+88,I can relate; work and study keep me busy., Balancing both is a challenge.,08/11/2023 8:20,08/11/2023 8:25,5,0,0.37766775,1
+89,I've been trying to incorporate some exercise., That's a great way to stay healthy.,08/11/2023 8:30,08/11/2023 8:35,5,0.084579861,0.418138,1
+90,I'm considering starting yoga; it's so calming., Yoga can be a fantastic choice.,08/11/2023 8:40,08/11/2023 8:45,5,0.10163066979112656,0.813533,1
+91,What's your daily work schedule like?," I start early in the morning,  finish in the evening.",08/11/2023 8:50,08/11/2023 8:55,5,0,0.48591775,1
+92,"I have a mix of meetings, coding, and research.", Sounds demanding but exciting.,08/11/2023 9:00,08/11/2023 9:05,5,0,0.28536573,1
+93,I've been trying to add reading to my daily routine., Reading is a wonderful habit.,08/11/2023 9:10,08/11/2023 9:15,5,0.079702512,0.49759886,1
+94,What's on your reading list?," Currently,  I'm into science fiction.",08/11/2023 9:20,08/11/2023 9:25,5,0,0.42788732,1
+95,I've been trying to meditate daily for relaxation., Meditation is great for reducing stress.,08/11/2023 9:30,08/11/2023 9:35,5,0.078744603,0.4939303,1
+96,What's your meditation routine like?, I meditate in the morning for 15 minutes.,08/11/2023 9:40,08/11/2023 9:45,5,0,0.18931694,1
+97,I've started cooking more at home., Homemade meals are healthier.,08/11/2023 9:50,08/11/2023 9:55,5,0,0.44671452,1
+98,I've been experimenting with new recipes., That's a fun way to learn cooking.,08/11/2023 10:00,08/11/2023 10:05,5,0,0.59439003,1
+99,What's your favorite dish to cook?, I love making pasta from scratch.,08/11/2023 10:10,08/11/2023 10:15,5,0,0.62185246,1
+100,Let's share some of our daily routine tips., Absolutely; it'll be helpful.,08/11/2023 10:20,08/11/2023 10:25,5,0,0.39583033,1
+101,How's your day going?, Art courses can deepen your appreciation.,11/11/2023 8:00,11/11/2023 8:30,30,0.11521554337793122,0.37060446,0
+102,Do you have any plans for the evening?, Blogging is a great way to share your thoughts.,11/11/2023 9:00,11/11/2023 9:45,45,0,0.28427652,0
+103,I watched a fascinating TED Talk yesterday., Cooking is a valuable skill to have.,11/11/2023 10:00,11/11/2023 10:30,30,0,0.27541184,0
+104,I enjoy learning from diverse perspectives., Gardening can be very therapeutic.,11/11/2023 11:00,11/11/2023 11:15,15,0,0.66377425,0
+105,I've been experimenting with photography., How about trying a classic novel?,11/11/2023 12:00,11/11/2023 12:30,30,0,0.29966554,0
+106,What kind of subjects do you like to shoot?, I attended a local art exhibition.,11/11/2023 13:00,11/11/2023 13:45,45,0,0.28490162,0
+107,I've been trying to improve my cooking skills.," I have basil, mint and rosemary.",11/11/2023 14:00,11/11/2023 14:45,45,0,0.32715747,0
+108,What's your favorite dish to prepare?, I love beach destinations for relaxation.,11/11/2023 15:00,11/11/2023 15:30,30,0,0.49629998,0
+109,Have you been to any interesting events lately?, I might try out a new restaurant. You?,11/11/2023 16:00,11/11/2023 16:45,45,0.078744603,0.4149512,0
+110,What kind of art did you see at the exhibition?, I plan to grow a variety of herbs.,11/11/2023 17:00,11/11/2023 17:30,30,0.069972543,0.3229569,0
+111,I've been considering a weekend getaway., I set aside 10 minutes in the morning.,11/11/2023 18:00,11/11/2023 18:15,15,0,0.43929404,0
+112,What's your favorite destination for a quick escape?, I usually enjoy a good book or a movie.,11/11/2023 18:30,11/11/2023 18:45,15,0,0.5280976,0
+113,I've started listening to a new podcast series., I'm currently into baking bread.,11/11/2023 19:00,11/11/2023 19:30,30,0,0.36395228,0
+114,What's the podcast about? Anything interesting?, I'm drawn to landscapes and portraits.,11/11/2023 20:00,11/11/2023 20:15,15,0,0.23404337,0
+115,Thinking about taking up gardening as a hobby., I'm intrigued by surrealism and abstract art.,11/11/2023 20:30,11/11/2023 20:45,15,0,0.38256556,0
+116,What plants are you considering for your garden?, I'm leaning towards Spanish; it's beautiful.,11/11/2023 21:00,11/11/2023 21:15,15,0,0.2972539,0
+117,I've been looking into art appreciation courses., I'm thinking of a travel and food blog.,11/11/2023 21:30,11/11/2023 21:45,15,0,0.48836756,0
+118,What art style interests you the most?, I'm thinking of the Natural History Museum.,11/11/2023 22:00,11/11/2023 22:15,15,0.084579861,0.4034411,0
+119,I'm considering a day trip to a nearby museum., It featured a mix of modern and traditional art.,11/11/2023 22:30,11/11/2023 22:45,15,0,0.30316737,0
+120,Do you have a favorite museum in mind?, It's a great way to broaden your horizons.,11/11/2023 23:00,11/11/2023 23:15,15,0,0.42186603,0
+121,How do you unwind after a busy day?, It's about the history of ancient civilizations.,11/11/2023 23:30,11/11/2023 23:45,15,0,0.3775287,0
+122,Any book or movie recommendations for me?, I've been growing a small herb garden.,11/11/2023 23:59,12/11/2023 0:15,16,0,0.22104897,0
+123,I've been thinking about learning a new language., Just finished a good book. How about you?,12/11/2023 0:30,12/11/2023 0:45,15,0.077808944,0.5250245,0
+124,Which language are you considering?, Learning a new language is a great idea!,12/11/2023 1:00,12/11/2023 1:15,15,0.10163066979112656,0.4285194,0
+125,Have you ever tried your hand at gardening?, Mindfulness can bring peace to your life.,12/11/2023 1:30,12/11/2023 1:45,15,0.072440819,0.2390796,0
+126,What herbs are you cultivating in your garden?, Museum visits are always enriching.,12/11/2023 2:00,12/11/2023 2:15,15,0.087044468,0.17860898,0
+127,I've been considering starting a blog., Photography is a wonderful creative outlet.,12/11/2023 2:30,12/11/2023 2:45,15,0,0.32070786,0
+128,What would your blog be about?, Podcasts are a great way to learn.,12/11/2023 3:00,12/11/2023 3:15,15,0,0.4355983,0
+129,I've been practicing mindfulness meditation., TED Talks can be very inspiring.,12/11/2023 3:30,12/11/2023 3:45,15,0,0.35351896,0
+130,How do you find time for mindfulness in your day?, Weekend getaways can be so refreshing.,12/11/2023 4:00,12/11/2023 4:15,15,0,0.42305964,0
+131,Have you ever tried scuba diving?," Yes,  I love the outdoors and the tranquility.",16/11/2023 8:00,16/11/2023 8:45,45,0,0.09696707,0
+132,Scuba diving can be a thrilling experience., Road trips can be full of surprises.,16/11/2023 9:00,16/11/2023 9:30,30,0.18443191662261305,0.6240592,0
+133,What's your favorite music genre?, Photography is a great way to capture moments.,16/11/2023 10:00,16/11/2023 10:45,45,0,0.57833,0
+134,I've been considering a spontaneous road trip., Pets can bring so much joy to your life.,16/11/2023 11:00,16/11/2023 11:30,30,0,0.36877912,0
+135,Do you have a destination in mind?, I've been exploring new music genres.,16/11/2023 12:00,16/11/2023 12:45,45,0,0.4968195,0
+136,I'm planning to visit an art exhibition., It's about ancient civilizations and their mysteries.,16/11/2023 13:00,16/11/2023 13:30,30,0,0.3669448,0
+137,What type of art will be on display?, I'm thinking of a national park.,16/11/2023 14:00,16/11/2023 14:45,45,0.098679618,0.412606,0
+138,I'm thinking about redecorating my home office., I'm thinking of a coastal town.,16/11/2023 15:00,16/11/2023 15:30,30,0.11521554337793122,0.44504502,0
+139,What changes are you planning for your office?, I'm thinking about yoga and cardio.,16/11/2023 16:00,16/11/2023 16:45,45,0,0.38921145,0
+140,I've been watching a documentary series., I'm thinking about adopting a rescue dog.,16/11/2023 17:00,16/11/2023 17:30,30,0,0.36780292,0
+141,What's the topic of the documentary series?, I'm planning to have roses and sunflowers.,16/11/2023 18:00,16/11/2023 18:30,30,0,0.20704745,0
+142,I'm considering a camping trip in the mountains., I'm excited to see contemporary art.,16/11/2023 19:00,16/11/2023 19:45,45,0,0.20866367,0
+143,Have you been on a camping trip before?, I'm considering a weekend hiking trip.,16/11/2023 20:00,16/11/2023 20:30,30,0.1059921313509325,0.6697322,0
+144,I've been thinking about adopting a pet., I'm aiming for a minimalist and cozy feel.,16/11/2023 21:00,16/11/2023 21:45,45,0,0.37627867,0
+145,What type of pet are you considering?, I visited an old castle; it was remarkable.,16/11/2023 22:00,16/11/2023 22:30,30,0,0.27657408,0
+146,I've been trying out new restaurants in town.," I haven't tried it yet,  but I'm curious.",16/11/2023 23:00,16/11/2023 23:45,45,0,0.35760105,0
+147,Any memorable dish you've tried recently?, I had an amazing sushi platter.,16/11/2023 23:59,17/11/2023 0:30,31,0,0.56179714,0
+148,I've been exploring historical sites in the city.," I enjoy rock,  but I'm open to new sounds.",17/11/2023 1:00,17/11/2023 1:45,45,0,0.3156152,0
+149,Which historical site impressed you the most?, I enjoy nature and wildlife photography.,17/11/2023 2:00,17/11/2023 2:30,30,0,0.36054263,0
+150,I'm considering starting a home garden., I baked a delicious chocolate cake.,17/11/2023 3:00,17/11/2023 3:45,45,0,0.29774472,0
+151,What plants do you want to grow in your garden?, History can be so fascinating to learn.,17/11/2023 4:00,17/11/2023 4:30,30,0.064370994,0.27921984,0
+152,I've been thinking about taking up photography., Gardening is a lovely and relaxing hobby.,17/11/2023 5:00,17/11/2023 5:45,45,0,0.28730214,0
+153,What kind of photography are you interested in?, Exploring new cuisines is always fun.,17/11/2023 6:00,17/11/2023 6:30,30,0,0.21478648,0
+154,I've been experimenting with homemade desserts., Exercise is great for staying fit.,17/11/2023 7:00,17/11/2023 7:45,45,0,0.23815809,0
+155,Any favorite dessert you've made recently?, Documentaries can be very educational.,17/11/2023 8:00,17/11/2023 8:30,30,0,0.44711894,0
+156,I'm considering a new workout routine., Camping in the mountains is breathtaking.,17/11/2023 9:00,17/11/2023 9:45,45,0,0.1993499,0
+157,What type of workout are you planning?, Books can be a source of growth.,17/11/2023 10:00,17/11/2023 10:30,30,0.084579861,0.31244954,0
+158,I've been reading a book on personal development., Baking can be so much fun.,17/11/2023 11:00,17/11/2023 11:45,45,0,0.17325023,0
+159,What's the most valuable lesson you've learned?, Art exhibitions are a visual treat.,17/11/2023 12:00,17/11/2023 12:30,30,0,0.53682965,0
+160,Where do you plan to go for the hike?, A well-designed workspace is important.,17/11/2023 13:00,17/11/2023 13:45,45,0,0.29408765,0
+161,I've been thinking about a beach vacation., Art exhibitions are visually stimulating.,18/11/2023 8:00,18/11/2023 8:45,45,0,0.39324197,0
+162,What's your favorite beach destination?, Baking is a creative and delicious endeavor.,18/11/2023 9:00,18/11/2023 9:30,30,0,0.40464243,0
+163,I'm considering taking up painting as a hobby., Beach vacations are so relaxing.,18/11/2023 10:00,18/11/2023 10:45,45,0,0.3045132,0
+164,What type of painting are you interested in?, Camping is an adventure in nature.,18/11/2023 11:00,18/11/2023 11:30,30,0.078744603,0.2447619,0
+165,I've been exploring new hiking trails., Cooking is such a creative outlet.,18/11/2023 12:00,18/11/2023 12:45,45,0,0.22144106,0
+166,What's the most beautiful trail you've hiked?, Exploring history can be so enriching.,18/11/2023 13:00,18/11/2023 13:30,30,0,0.58899117,0
+167,What would your blog be about?, Exploring new cuisines is always fun.,18/11/2023 14:00,18/11/2023 14:45,45,0,0.26768437,0
+168,I've been trying out new restaurants in town., Gardening is a wonderful and peaceful hobby.,18/11/2023 15:00,18/11/2023 15:30,30,0,0.19566835,0
+169,Any memorable dish you've tried recently?, Hiking is a fantastic way to connect with nature.,18/11/2023 16:00,18/11/2023 16:30,30,0,0.29140043,0
+170,I'm planning to visit an art exhibition., Hiking is a fantastic way to exercise.,18/11/2023 17:00,18/11/2023 17:45,45,0.091939982,0.28865913,0
+171,What type of art will be on display?, I baked a mouthwatering apple pie.,18/11/2023 18:00,18/11/2023 18:30,30,0,0.07189132,0
+172,I'm considering starting a home garden., I enjoy classical and jazz.,18/11/2023 19:00,18/11/2023 19:45,45,0,0.2674898,0
+173,What plants do you want to grow in your garden?, I had an incredible seafood paella.,18/11/2023 20:00,18/11/2023 20:30,30,0,0.20376942,0
+174,I've been experimenting with homemade desserts., I love tropical islands with clear waters.,18/11/2023 21:00,18/11/2023 21:45,45,0.091939982,0.19099072,0
+175,Any favorite dessert you've made recently?, I made a fantastic Thai curry.,18/11/2023 22:00,18/11/2023 22:30,30,0.1059921313509325,0.5912027,0
+176,I'm thinking about taking up a new sport., I usually meditate in the evening.,18/11/2023 23:00,18/11/2023 23:45,45,0,0.30403376,0
+177,What sport are you considering?, I'm considering a national forest.,18/11/2023 23:59,19/11/2023 0:30,31,0.1506401849870651,0.36195767,0
+178,I've been watching a documentary on space., I'm considering a weekend camping trip.,19/11/2023 1:00,19/11/2023 1:30,30,0,0.3855311,0
+179,What's the most fascinating space fact you've learned?, I'm considering a weekend getaway.,19/11/2023 2:00,19/11/2023 2:45,45,0,0.30467388,0
+180,Where are you planning to go for camping?, I'm considering starting a blog.,19/11/2023 3:00,19/11/2023 3:30,30,0,0.5699212,0
+181,I've been practicing mindfulness meditation., I'm excited to see contemporary art.,19/11/2023 4:00,19/11/2023 4:45,45,0,0.35206842,0
+182,How do you find time for meditation in your day?, I'm interested in the Renaissance period.,19/11/2023 5:00,19/11/2023 5:30,30,0.077347812,0.30256814,0
+183,I'm considering a visit to a historical city., I'm leaning towards French.,19/11/2023 6:00,19/11/2023 6:30,30,0,0.40967897,0
+184,What's your favorite historical era?, I'm planning to have roses and tulips.,19/11/2023 7:00,19/11/2023 7:45,45,0,0.3633426,0
+185,I've been exploring different hiking trails., I'm thinking about adopting a rescue cat.,19/11/2023 8:00,19/11/2023 8:30,30,0,0.25795206,0
+186,What's the most challenging hike you've done?, I'm thinking about taking up a new language.,19/11/2023 9:00,19/11/2023 9:45,45,0,0.32063383,0
+187,Which language are you considering?, I'm thinking of a lifestyle and travel blog.,19/11/2023 10:00,19/11/2023 10:30,30,0,0.4232759,0
+188,I've been reading a science fiction novel., I'm thinking of a national park.,19/11/2023 11:00,19/11/2023 11:45,45,0,0.30198812,0
+189,What's the plot of the novel you're reading?, I'm thinking of a quiet countryside retreat.,19/11/2023 12:00,19/11/2023 12:45,45,0.073574746,0.35404715,0
+190,What type of destination do you have in mind?, I'm thinking of trying out tennis.,19/11/2023 13:00,19/11/2023 13:30,30,0.081768041,0.39614454,0
+191,I've been experimenting with new recipes., I'm thinking of watercolor landscapes.,19/11/2023 14:00,19/11/2023 14:45,45,0,0.32452893,0
+192,What's the most delicious dish you've cooked recently?, I'm thinking of yoga and strength training.,19/11/2023 15:00,19/11/2023 15:30,30,0,0.27820215,0
+193,I'm thinking about adopting a pet., Mindfulness is a great way to relax.,19/11/2023 16:00,19/11/2023 16:45,45,0,0.36962765,0
+194,What kind of pet are you considering?, Music is such a mood lifter.,19/11/2023 17:00,19/11/2023 17:30,30,0,0.38335812,0
+195,I've been considering starting a fitness routine., Painting is a great way to express yourself.,19/11/2023 18:00,19/11/2023 18:45,45,0,0.35415712,0
+196,What type of exercise are you planning to do?, Pets bring so much joy to your life.,19/11/2023 19:00,19/11/2023 19:30,30,0.063354812,0.175445,0
+197,I've been exploring new music genres., Physical activity is great for health.,19/11/2023 20:00,19/11/2023 20:45,45,0,0.30338508,0
+198,What's your favorite type of music?, Sci-fi novels can be very imaginative.,19/11/2023 21:00,19/11/2023 21:30,30,0,0.47724876,0
+199,I've been thinking about a camping trip., Space documentaries are mind-blowing.,19/11/2023 22:00,19/11/2023 22:45,45,0,0.27128345,0
+200,Where do you plan to go camping?, Sports are a great way to stay active.,19/11/2023 23:00,19/11/2023 23:45,45,0.077808944,0.23606485,0
